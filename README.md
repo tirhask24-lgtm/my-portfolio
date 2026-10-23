@@ -24,3 +24,4 @@ My goal is to become a professional web developer.
 
 ## How to Run
 Open index.html in your web browser.
+This portfolio is built with HTML, CSS, and JavaScript.
