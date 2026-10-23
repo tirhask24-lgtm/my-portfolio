@@ -591,3 +591,25 @@ body.dark-mode .social-section p {
     color: #e2e8f0;
 }
 
+
+.learning-journey {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.learning-journey h2 {
+    color: #2563eb;
+    margin-bottom: 15px;
+}
+
+.learning-journey ul {
+    padding-left: 25px;
+}
+
+.learning-journey li {
+    margin-bottom: 10px;
+}
